@@ -1,0 +1,16 @@
+C:\Users\amx\Desktop\RSALab\RSALab\bin\Debug\net5.0\RSALab.exe
+C:\Users\amx\Desktop\RSALab\RSALab\bin\Debug\net5.0\RSALab.deps.json
+C:\Users\amx\Desktop\RSALab\RSALab\bin\Debug\net5.0\RSALab.runtimeconfig.json
+C:\Users\amx\Desktop\RSALab\RSALab\bin\Debug\net5.0\RSALab.runtimeconfig.dev.json
+C:\Users\amx\Desktop\RSALab\RSALab\bin\Debug\net5.0\RSALab.dll
+C:\Users\amx\Desktop\RSALab\RSALab\bin\Debug\net5.0\ref\RSALab.dll
+C:\Users\amx\Desktop\RSALab\RSALab\bin\Debug\net5.0\RSALab.pdb
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.csprojAssemblyReference.cache
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.AssemblyInfoInputs.cache
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.AssemblyInfo.cs
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.csproj.CoreCompileInputs.cache
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.dll
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\ref\RSALab.dll
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.pdb
+C:\Users\amx\Desktop\RSALab\RSALab\obj\Debug\net5.0\RSALab.genruntimeconfig.cache
